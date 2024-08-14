@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @henrysalkever
-- 👀 I’m interested in neural networks and artificial intelligence
-- 🌱 I’m currently learning the foundations of python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: henry.salkever@icloud.com 
+👋 Hi, I’m @henrysalkever
 
-<!---
-henrysalkever/henrysalkever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm interested in using machine learning to model dynamic systems in biology and financial markets. 
+I am always looking for collaboration opportunities so please don't hesitate to reach out. 
+
+Email: hss2235@uncw.edu
+Twitter: @HSalkever
+
