@@ -1,3 +1,5 @@
+![DALL·E 2024-11-06 22 10 36 - A minimalist, dark-themed background image for a scientific AI research README  The design has faint neural network structures and molecular chains in](https://github.com/user-attachments/assets/3f1d7e9e-e0eb-47f9-ad59-95646de42b3d)
+
 <h1>👋 Hi, I’m @henrysalkever</h1>
 
 <h2>Computational Biology and Finance Researcher</h2>
