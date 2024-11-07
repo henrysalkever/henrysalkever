@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/3f1d7e9e-e0eb-47f9-ad59-95646de42b3d" width="800" height="400" />
+<img src="https://github.com/user-attachments/assets/3f1d7e9e-e0eb-47f9-ad59-95646de42b3d" width="1000" height="400" />
 
 
 <h1>👋 Hi, I’m @henrysalkever</h1>
