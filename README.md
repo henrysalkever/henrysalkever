@@ -15,7 +15,6 @@ My areas of research include:
 - Image processing representations of time-series data
 
 Email: hss2235@uncw.edu
-Twitter: @HSalkever
 
 
 <h3 align="left">Connect with me:</h3>
