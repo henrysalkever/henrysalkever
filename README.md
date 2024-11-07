@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/3f1d7e9e-e0eb-47f9-ad59-95646de42b3d" width="1000" height="350" />
 
 
-<h1>👋 Hi, I’m @henrysalkever</h1>
+<h1 style="font-family: 'Courier New', Courier, monospace;">👋 Hi, I’m @henrysalkever</h1>
 
 <h2>Computational Biology and Finance Researcher</h2>
 
