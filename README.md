@@ -14,3 +14,6 @@ My areas of research include:
 Email: hss2235@uncw.edu
 Twitter: @HSalkever
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/henrysalkever=DenverCoder1)](https://git.io/streak-stats)
+
