@@ -1,20 +1,5 @@
-<div style="position: relative; text-align: center; color: white;">
-  <img src="https://github.com/user-attachments/assets/3f1d7e9e-e0eb-47f9-ad59-95646de42b3d" alt="Background Image" style="width:100%; opacity:0.3;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <h1>👋 Hi, I’m @henrysalkever</h1>
-    <h2>Computational Biology and Finance Researcher</h2>
-    <p>I'm interested in using machine learning to model dynamic systems in biology and financial markets. 
-I am always looking for collaboration opportunities so please don't hesitate to reach out. 
+<img src="https://github.com/user-attachments/assets/3f1d7e9e-e0eb-47f9-ad59-95646de42b3d" width="400" height="auto" />
 
-My areas of research include: 
-- Group Theory in molecular biology
-- Biologically inspired algorithms in Statistical Arbitrage
-- State space models
-- Image processing representations of time-series data</p>
-  </div>
-</div>
-
-![DALL·E 2024-11-06 22 10 36 - A minimalist, dark-themed background image for a scientific AI research README  The design has faint neural network structures and molecular chains in](https://github.com/user-attachments/assets/3f1d7e9e-e0eb-47f9-ad59-95646de42b3d)
 
 <h1>👋 Hi, I’m @henrysalkever</h1>
 
