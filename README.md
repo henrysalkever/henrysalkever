@@ -1,5 +1,5 @@
-<img src="https://github.com/user-attachments/assets/3f1d7e9e-e0eb-47f9-ad59-95646de42b3d" width="1000" height="350" />
 
+<img src="https://github.com/user-attachments/assets/a386ff99-a8b2-4bea-997d-01f3cbc9a78f" width="1000" height="350" />
 
 <h1 style="font-family: 'Courier New', Courier, monospace;">👋 Hi, I’m @henrysalkever</h1>
 
